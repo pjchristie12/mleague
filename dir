@@ -1,0 +1,6 @@
+
+$ mkdir mleague-bot # folder for your git repository
+$ cd mleague-bot
+$ git init .              # create a new git repository
+$ heroku apps:create mleague-bot # create heroku app 
+$ git remote              # should show one remote target
